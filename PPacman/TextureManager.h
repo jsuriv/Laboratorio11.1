@@ -17,7 +17,7 @@ private:
 	const string pathFantasmaClasico3 = "Resources/Inkey.bmp";
 	const string pathFantasmaClasico4 = "Resources/Pinky.bmp";
 	const string pathFrutaClasico = "Resources/Frutas.png";
-	const string pathMonedaClasico = "Resources/Monedas02.png";
+	const string pathMonedaClasico = "Resources/monedagalactico1.png";
 	const string pathSuperMonedaClasico = "Resources/Monedas03.jpg";
 	const string pathParedClasico = "Resources/WallTextures.png";
 	const string pathParedClasicoAdapter = "Resources/wall_sprite.bmp";
