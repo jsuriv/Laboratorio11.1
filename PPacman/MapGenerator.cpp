@@ -35,6 +35,7 @@ bool MapGenerator::load(string path)
 			Fantasma* objetoFantasmaClonado = nullptr;
 			Tile* tileNuevo = tileGraph->getTileEn(x, y);
 
+
 			// Se verifica que letra es la que se lee y en funcion a ello se crea un tipo de objeto
 			switch (chars[x])
 			{
