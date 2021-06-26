@@ -10,6 +10,7 @@ private:
 	map<string, Texture*> mapTexturas;
 	map<string, AnimationFrames*> mapFramesAnimaciones;
 
+
 	const string pathPacmanClasico = "Resources/PacMan.bmp";
 	const string pathMsPacmanClasico = "Resources/mispacman1.png";
 	const string pathFantasmaClasico1 = "Resources/Blinky.png";
