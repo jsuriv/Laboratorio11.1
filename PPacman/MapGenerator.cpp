@@ -41,7 +41,7 @@ bool MapGenerator::load(string path)
 			{
 			case 'x':
 				objetoNuevo = new Pared(tileNuevo, textureManager->getTextura("pared_clasico"));
-				((GameActor*)objetoNuevo)->setFramesDireccion(8);
+				((GameActor*)objetoNuevo)->setFramesDireccion(12);
 				break;
 			case '.':
 				objetoNuevo = new Moneda(tileNuevo, textureManager->getTextura("moneda_clasico"));
